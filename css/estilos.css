@@ -1,0 +1,16 @@
+body{
+    /*background-color: rgb(227, 238, 71);*/
+    background-color: #B3F1A4; /*Color hexadecimal*/
+}
+
+h1{
+    color: rgb(4, 0, 255);
+}
+
+img#imagen1{
+    width: 100px;
+}
+
+img#imagen2{
+    width: 900px;
+}
